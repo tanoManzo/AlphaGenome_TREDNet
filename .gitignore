@@ -11,3 +11,5 @@ wheels/
 
 best_enhancer_cnn.keras
 enhancer_features.h5
+# Experiment outputs
+outputs/
